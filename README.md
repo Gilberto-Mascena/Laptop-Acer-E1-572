@@ -12,7 +12,7 @@ Config | Laptop
  CPU | I3 4010U
  GPU | Intel HD Graphics 4400
  Memoria Ram | 1x2GB + 1x4GB Total 6GB
- SSD Sata | Patriot BURST 120GB SATA3 2.5 SSD
+ SSD Sata | Kingston SA400S37 120G SATA3 2.5 SSD
  Rede | Broadcom NetXtreme BCM57786
  WI-FI | Atheros AR9565
 
