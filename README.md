@@ -13,26 +13,14 @@ Config | Laptop
  GPU | Intel HD Graphics 4400
  Memoria Ram | 1x2GB + 1x4GB Total 6GB
  SSD Sata | Kingston SA400S37 120G SATA3 2.5 SSD
-<<<<<<< HEAD
  Rede | Broadcom NetXtreme BCM57786
-=======
- Rede | Broadcom NetXtreme BCM57786 
->>>>>>> 3ca519a5a107692a4456ff1cdb140aca41c7c555
  WI-FI | Atheros AR9565
 
  ## Captura de telas
  
-<<<<<<< HEAD
 ![Captura de Tela 2022-08-22 às 00 33 24](https://user-images.githubusercontent.com/103699861/185834935-b85038dd-c9d0-45cf-ba54-4c65ba1815c0.png)
 ![Captura de Tela 2022-08-22 às 00 33 47](https://user-images.githubusercontent.com/103699861/185834958-248b77b0-6b24-4daa-8e6a-491e9293b582.png)
 ![Captura de Tela 2022-08-22 às 00 35 22](https://user-images.githubusercontent.com/103699861/185834964-bd57d1cd-0aaf-4d20-81b7-31dd45014314.png)
-=======
-
-![Captura de Tela 2022-08-22 às 00 33 24](https://user-images.githubusercontent.com/103699861/185838609-fcd8a75e-7504-4e88-85b5-99ab59ad858f.png)
-![Captura de Tela 2022-08-22 às 00 33 47](https://user-images.githubusercontent.com/103699861/185838614-2945746a-0777-456d-b1a7-c1b548cce131.png)
-![Captura de Tela 2022-08-22 às 00 35 22](https://user-images.githubusercontent.com/103699861/185838616-96927a9f-124e-4a5a-b3ac-978596146a13.png)
-
->>>>>>> 3ca519a5a107692a4456ff1cdb140aca41c7c555
 
 
  ## Agradecimentos
