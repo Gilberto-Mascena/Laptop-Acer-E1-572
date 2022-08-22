@@ -18,7 +18,10 @@ Config | Laptop
 
  ## Captura de telas
  
- 
+![Captura de Tela 2022-08-22 às 00 33 24](https://user-images.githubusercontent.com/103699861/185838609-fcd8a75e-7504-4e88-85b5-99ab59ad858f.png)
+![Captura de Tela 2022-08-22 às 00 33 47](https://user-images.githubusercontent.com/103699861/185838614-2945746a-0777-456d-b1a7-c1b548cce131.png)
+![Captura de Tela 2022-08-22 às 00 35 22](https://user-images.githubusercontent.com/103699861/185838616-96927a9f-124e-4a5a-b3ac-978596146a13.png)
+
 
  ## Agradecimentos
 
