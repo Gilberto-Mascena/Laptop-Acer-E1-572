@@ -12,25 +12,15 @@ Config | Laptop
  CPU | I3 4010U
  GPU | Intel HD Graphics 4400
  Memoria Ram | 1x2GB + 1x4GB Total 6GB
-<<<<<<< HEAD
- SSD Sata | Kingston SA400S37 120G
-=======
  SSD Sata | Kingston SA400S37 120G SATA3 2.5 SSD
->>>>>>> 154b72c25134218dd5f182a59f9a4733483e5e30
  Rede | Broadcom NetXtreme BCM57786
  WI-FI | Atheros AR9565
 
  ## Captura de telas
  
-<<<<<<< HEAD
-![Captura de Tela 2022-08-22 às 00 33 24](https://user-images.githubusercontent.com/103699861/185838609-fcd8a75e-7504-4e88-85b5-99ab59ad858f.png)
-![Captura de Tela 2022-08-22 às 00 33 47](https://user-images.githubusercontent.com/103699861/185838614-2945746a-0777-456d-b1a7-c1b548cce131.png)
-![Captura de Tela 2022-08-22 às 00 35 22](https://user-images.githubusercontent.com/103699861/185838616-96927a9f-124e-4a5a-b3ac-978596146a13.png)
-=======
 ![Captura de Tela 2022-08-22 às 00 33 24](https://user-images.githubusercontent.com/103699861/185834935-b85038dd-c9d0-45cf-ba54-4c65ba1815c0.png)
 ![Captura de Tela 2022-08-22 às 00 33 47](https://user-images.githubusercontent.com/103699861/185834958-248b77b0-6b24-4daa-8e6a-491e9293b582.png)
 ![Captura de Tela 2022-08-22 às 00 35 22](https://user-images.githubusercontent.com/103699861/185834964-bd57d1cd-0aaf-4d20-81b7-31dd45014314.png)
->>>>>>> 154b72c25134218dd5f182a59f9a4733483e5e30
 
 
  ## Agradecimentos
