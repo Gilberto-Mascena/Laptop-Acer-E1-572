@@ -1,6 +1,6 @@
 # *EFI OC B85M GAMING-3 macOS Catalina*
 
-*Sistema* | *OC 0.8.3 RELEASE*
+*Sistema* | *OC 0.8.4 RELEASE*
 :---: | :---
 macOS | Catalina
 
