@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key># EFI OC 0.8.4-REL - ACER E1-572-6_BR471/LAPTOP</key>
+	<key># EFI OC 0.8.6-REL - ACER E1-572-6_BR471/LAPTOP</key>
 	<string>by Gilberto</string>
 	<key>#GitHub: https://github.com/Gilberto-Mascena</key>
 	<string></string>
@@ -1095,6 +1095,12 @@
 			<integer>50</integer>
 			<key>KeySubsequentDelay</key>
 			<integer>5</integer>
+			<key>PointerDwellClickTimeout</key>
+			<integer>0</integer>
+			<key>PointerDwellDoubleClickTimeout</key>
+			<integer>0</integer>
+			<key>PointerDwellRadius</key>
+			<integer>0</integer>
 			<key>PointerPollMask</key>
 			<integer>-1</integer>
 			<key>PointerPollMax</key>
