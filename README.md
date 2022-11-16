@@ -1,5 +1,7 @@
 # *EFI OC B85M GAMING-3 macOS Catalina*
 
+![License](https://img.shields.io/github/license/Gilberto-Mascena/Laptop-Acer-E1-572)
+
 ## *Sistema Operacional*
 
 *macOS* | *Catalina*
