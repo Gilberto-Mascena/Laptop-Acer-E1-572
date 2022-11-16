@@ -1,6 +1,6 @@
-# *EFI OC B85M GAMING-3 macOS Catalina*
+# *EFI OC Laptop-Acer-E1-572 macOS Catalina*
 
-![License](https://img.shields.io/github/license/Gilberto-Mascena/Laptop-Acer-E1-572)
+![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Laptop-Acer-E1-572)
 
 ## *Sistema Operacional*
 
@@ -37,6 +37,6 @@
 
 ## *Licença*
 
-*The* [*MIT License*](https://github.com/Gilberto-Mascena/B85M-GAMING-3/blob/main/LICENSE.md) (*MIT*)
+*The* [*MIT License*](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/blob/main/LICENSE.md) (*MIT*)
 
 *Copyright :copyright: 2020* 
