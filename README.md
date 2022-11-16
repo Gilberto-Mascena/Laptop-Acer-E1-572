@@ -37,6 +37,6 @@
 
 ## *Licença*
 
-*The* [*MIT License*](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/blob/main/LICENSE.md) (*MIT*)
+*The* [*MIT License*](https://github.com/Gilberto-Mascena/B85M-GAMING-3/blob/main/LICENSE.md) (*MIT*)
 
 *Copyright :copyright: 2020* 
