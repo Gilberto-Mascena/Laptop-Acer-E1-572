@@ -1,6 +1,9 @@
 # *EFI OC Laptop-Acer-E1-572 macOS Catalina*
 
 ![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Laptop-Acer-E1-572)
+![release-date](https://img.shields.io/github/release-date/Gilberto-Mascena/Laptop-Acer-E1-572)
+![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Laptop-Acer-E1-572)
+![license](https://img.shields.io/github/license/Gilberto-Mascena/Laptop-Acer-E1-572)
 
 ## *Sistema Operacional*
 
