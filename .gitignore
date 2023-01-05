@@ -29,3 +29,5 @@
 ._config.plist
 ._OpenCore.efi
 ._SSDT-BATC.dsl
+.DS_Store
+.contentVisibility

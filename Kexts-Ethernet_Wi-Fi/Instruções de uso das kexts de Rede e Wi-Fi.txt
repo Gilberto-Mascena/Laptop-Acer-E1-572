@@ -1,0 +1,3 @@
+Instruções de uso das kexts de Rede e Wi-Fi
+
+#Preferencialmente adicionalas no pós inalação.
