@@ -7,6 +7,8 @@
 
 ## *Sistema Operacional*
 
+<img align="right" src="./Imagens/Note.png" alt="Foto NoteBook Acer" width="330">
+
 *macOS* | *Catalina*
 :---: | :---
   
