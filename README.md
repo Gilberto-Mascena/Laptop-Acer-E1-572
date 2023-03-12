@@ -31,8 +31,9 @@
 - [x] Áudio.
 - [x] LAN.
 - [x] WI-FI.
+- [ ] Bluetooth.
 - [x] USB.
-- [x] Sleep.
+- [ ] Sleep.
 
  ## *Captura de telas*
  
@@ -48,6 +49,7 @@
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*CrisHotpatch*](https://t.me/crishotpatch)
 - [*Gabriel Luchina*](https://www.youtube.com/c/GabrielLuchina)
+- [*CorpNewt*](https://github.com/corpnewt)
 
 ## *Licença*
 
