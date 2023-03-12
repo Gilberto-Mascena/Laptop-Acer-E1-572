@@ -25,6 +25,15 @@
  Rede | Broadcom NetXtreme BCM57786
  WI-FI | Atheros AR9565
 
+ ## *O que funciona*
+
+- [x] Video (onbord via HDMI).
+- [x] Áudio.
+- [x] LAN.
+- [x] WI-FI.
+- [x] USB.
+- [x] Sleep.
+
  ## *Captura de telas*
  
 ![Captura de Tela 2022-08-22 às 00 33 24](https://user-images.githubusercontent.com/103699861/185834935-b85038dd-c9d0-45cf-ba54-4c65ba1815c0.png)
