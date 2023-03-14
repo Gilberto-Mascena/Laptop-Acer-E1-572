@@ -17,7 +17,7 @@
 
 *Config* | *Laptop*
 :---: | :---
- Notebook | [*ACER E1-572-6_BR471*](https://www.acer.com/br-pt/support?search=40545129395;NX.MEVAL.019;E1-572&filter=global_download)
+ Laptop | [*ACER E1-572-6_BR471*](https://www.acer.com/br-pt/support?search=40545129395;NX.MEVAL.019;E1-572&filter=global_download)
  CPU | I3 4010U
  GPU | Intel HD Graphics 4400
  Memória Ram | 1x2GB + 1x4GB Total 6GB
