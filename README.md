@@ -45,11 +45,11 @@
  ## *Agradecimentos*
 
 - [*Acidanthera*](https://github.com/acidanthera)
+- [*CorpNewt*](https://github.com/corpnewt)
+- [*CrisHotpatch*](https://t.me/crishotpatch)
 - [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
-- [*CrisHotpatch*](https://t.me/crishotpatch)
 - [*Gabriel Luchina*](https://www.youtube.com/c/GabrielLuchina)
-- [*CorpNewt*](https://github.com/corpnewt)
 
 ## *Licença*
 
