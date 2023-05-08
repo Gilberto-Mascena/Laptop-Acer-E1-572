@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key># EFI OC 0.9.1-REL - ACER E1-572-6_BR471/LAPTOP</key>
+	<key># EFI OC 0.9.2-REL - ACER E1-572-6_BR471/LAPTOP</key>
 	<string>by Gilberto</string>
 	<key>#GitHub: https://github.com/Gilberto-Mascena</key>
 	<string></string>
@@ -790,6 +790,8 @@
 			<false/>
 			<key>DisableIoMapper</key>
 			<true/>
+			<key>DisableIoMapperMapping</key>
+			<false/>
 			<key>DisableLinkeditJettison</key>
 			<true/>
 			<key>DisableRtcChecksum</key>
@@ -1222,6 +1224,8 @@
 			<string>Disabled</string>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
+			<key>InitialMode</key>
+			<string>Auto</string>
 			<key>ProvideConsoleGop</key>
 			<true/>
 			<key>ReconnectGraphicsOnConnect</key>
