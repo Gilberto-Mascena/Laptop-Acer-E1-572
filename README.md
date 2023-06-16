@@ -41,6 +41,19 @@
 ![Captura de Tela 2022-08-22 às 00 33 47](https://user-images.githubusercontent.com/103699861/185834958-248b77b0-6b24-4daa-8e6a-491e9293b582.png)
 ![Captura de Tela 2022-08-22 às 00 35 22](https://user-images.githubusercontent.com/103699861/185834964-bd57d1cd-0aaf-4d20-81b7-31dd45014314.png)
 
+## *Utilização*
+
+* Recomendação 1
+  * *Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para sua SMBIOS afim de evitar conflitos com iServices.*
+* Recomendação 2
+  * *Use [ProperTree](https://github.com/corpnewt/ProperTree), para editar sua config.plist.*     
+* Recomendação 3
+  * *Use [USBMap](https://github.com/corpnewt/USBMap), para mapear suas portas USB, (apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit + USBInjectAll).*
+* Recomendação 4
+  * *Extrair sua DSDT a partir do windows.*
+  * *Use [SSDTTime](https://github.com/corpnewt/SSDTTime), para gera seus patches de SSDT.*    
+* Recomendação 5
+  * *Use [MaciASL](https://github.com/acidanthera/MaciASL), para compilar seus patches de SSDT.*
 
  ## *Agradecimentos*
 
