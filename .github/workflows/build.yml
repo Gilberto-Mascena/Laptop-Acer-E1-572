@@ -23,11 +23,11 @@ jobs:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
           body: |
-            Mudanças neta Versão
-            - Primeira Mudança
-            Adicionado OpenShell.efi 
+            Mudanças nesta Versão
+            - Primeira Mudança:
+            Adicionado OpenShell.efi.
 
-            - Segunda Mudança
-            Recomendado para depuração, a partir do menu do OpenCore
+            - Segunda Mudança:
+            Recomendado para depuração, a partir do menu do OpenCore.
           draft: false
           prerelease: false
