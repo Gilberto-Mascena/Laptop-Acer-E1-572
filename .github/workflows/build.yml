@@ -1,15 +1,8 @@
 on:
-<<<<<<< HEAD
-  push:
-      
-    # Sequence of patterns matched against refs/tags
-    tags:
-      - 'v*' # Push events to matching v*, i.e. v1.0, v20.15.10
-=======
+
   push:      
     tags:
       - 'v*' 
->>>>>>> work
 
 name: Create Release
 
@@ -29,19 +22,11 @@ jobs:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
           body: |
-<<<<<<< HEAD
-            Mudanças nesta Versão
-            - Primeira Mudança:
-            Adicionado OpenShell.efi.
 
-            - Segunda Mudança:
-            Recomendado para depuração, a partir do menu do OpenCore.
-=======
             _**Mudanças nesta Versão**_
             - Primeira Mudança:
             _Adicionado `OpenShell.efi`._ 
             - Segunda Mudança:
             _Recomendado para depuração, a partir do menu do OpenCore._
->>>>>>> work
           draft: false
           prerelease: false
