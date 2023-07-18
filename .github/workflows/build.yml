@@ -1,11 +1,7 @@
 on:
-  push:
-      
-    branches:
-      ['master' 'main']
-      # Sequence of patterns matched against refs/tags
-      tags:
-        - 'v*' # Push events to matching v*, i.e. v1.0, v20.15.10
+  push:      
+    tags:
+      - 'v*' 
 
 name: Create Release
 
@@ -20,16 +16,15 @@ jobs:
         id: create_release
         uses: actions/create-release@v1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
         with:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
           body: |
-            Changes in this Release
+            _**Mudanças nesta Versão**_
             - Primeira Mudança:
-            Adicionado OpenShell.efi 
-
+            _Adicionado `OpenShell.efi`._ 
             - Segunda Mudança:
-            Recomendado para depuração, a partir do menu do OpenCore
+            _Recomendado para depuração, a partir do menu do OpenCore._
           draft: false
           prerelease: false
