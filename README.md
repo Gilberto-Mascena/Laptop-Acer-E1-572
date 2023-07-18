@@ -10,7 +10,7 @@
 
 <img align="right" src="./Imagens/Note.png" alt="Foto NoteBook Acer" width="330">
 
-*macOS* | *Catalina*
+*macOS* | *Catalina 10.15.7*
 :---: | :---
 ## 
 
@@ -48,16 +48,16 @@
 ## *Utilização*
 
 * Recomendação 1
-  * *Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para sua SMBIOS afim de evitar conflitos com iServices.*
+  * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para sua SMBIOS afim de evitar conflitos com iServices.*
 * Recomendação 2
-  * *Use [ProperTree](https://github.com/corpnewt/ProperTree), para editar sua config.plist.*     
+  * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), para editar sua config.plist.*     
 * Recomendação 3
-  * *Use [USBMap](https://github.com/corpnewt/USBMap), para mapear suas portas USB, (apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit + USBInjectAll).*
+  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, (apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit + USBInjectAll).*
 * Recomendação 4
   * *Extrair sua DSDT a partir do windows.*
-  * *Use [SSDTTime](https://github.com/corpnewt/SSDTTime), para gera seus patches de SSDT.*    
+  * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), para gera seus patches de SSDT.*    
 * Recomendação 5
-  * *Use [MaciASL](https://github.com/acidanthera/MaciASL), para compilar seus patches de SSDT.*
+  * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), para compilar seus patches de SSDT.*
 ##
 
 ## *Agradecimentos*
