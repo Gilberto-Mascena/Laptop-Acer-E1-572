@@ -72,7 +72,7 @@
 
 ## *Licença*
 
-*The* [*MIT License*](README.md) (*MIT*)
+*The* [*MIT License*](LICENSE.md) (*MIT*)
 
 *Copyright :copyright: 2020* 
 ##
