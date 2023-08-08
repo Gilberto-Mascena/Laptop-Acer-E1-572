@@ -8,7 +8,7 @@
 
 ## *Sistema Operacional*
 
-<img align="right" src="./Imagens/Note.png" alt="Foto NoteBook Acer" width="330">
+<img align="right" src="./Imagens/banner.png" alt="Foto NoteBook Acer" width="330">
 
 *macOS* | *Catalina 10.15.7*
 :---: | :---
@@ -18,24 +18,24 @@
 
 *Config* | *Laptop*
 :---: | :---
- Laptop | [*ACER E1-572-6_BR471*](https://www.acer.com/br-pt/support?search=40545129395;NX.MEVAL.019;E1-572&filter=global_download)
- CPU | I3 4010U
- GPU | Intel HD Graphics 4400
- Memória Ram | 1x2GB + 1x4GB Total 6GB
- SSD Sata | Kingston SA400S37 120G SATA3 2.5 SSD
- Rede | Broadcom NetXtreme BCM57786
- WI-FI | Atheros AR9565
+ *Laptop* | [*ACER E1-572-6_BR471*](https://www.acer.com/br-pt/support?search=40545129395;NX.MEVAL.019;E1-572&filter=global_download)
+ *CPU* | *I3 4010U*
+ *GPU* | *Intel HD Graphics 4400*
+ *Memória Ram* | *1x2GB + 1x4GB Total 6GB*
+ *SSD Sata* | *Kingston SA400S37 120G SATA3 2.5 SSD*
+ *Rede* | *Broadcom NetXtreme BCM57786*
+ *WI-FI / Bluetooth* | *Atheros AR9565*
 ##
 
 ## *O que funciona*
 
-- [x] Video (onbord via HDMI).
-- [x] Áudio.
-- [x] LAN.
-- [x] WI-FI.
-- [ ] Bluetooth.
-- [x] USB.
-- [ ] Sleep.
+- [x] *Video (onbord via HDMI).*
+- [x] *Áudio.*
+- [x] *Rede.*
+- [x] *WI-FI.*
+- [ ] *Bluetooth.*
+- [x] *USB.*
+- [ ] *Sleep.*
 ##
 
 ## *Captura de telas*
@@ -52,7 +52,7 @@
 * Recomendação 2
   * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), para editar sua config.plist.*     
 * Recomendação 3
-  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, (apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit + USBInjectAll).*
+  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit habilitada no config.plist + [`USBInjectAll`](https://github.com/Sniki/OS-X-USB-Inject-All/releases).*
 * Recomendação 4
   * *Extrair sua DSDT a partir do windows.*
   * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), para gera seus patches de SSDT.*    
@@ -72,7 +72,7 @@
 
 ## *Licença*
 
-*The* [*MIT License*](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/blob/main/LICENSE.md) (*MIT*)
+*The* [*MIT License*](README.md) (*MIT*)
 
 *Copyright :copyright: 2020* 
 ##

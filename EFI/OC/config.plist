@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key># EFI OC 0.9.3-REL - ACER E1-572-6_BR471/LAPTOP</key>
+	<key># EFI OC 0.9.4-REL - ACER E1-572-6_BR471/LAPTOP</key>
 	<string>by Gilberto</string>
 	<key>#GitHub: https://github.com/Gilberto-Mascena</key>
 	<string></string>
@@ -849,6 +849,8 @@
 			<false/>
 			<key>HideAuxiliary</key>
 			<true/>
+			<key>InstanceIdentifier</key>
+			<string></string>
 			<key>LauncherOption</key>
 			<string>Disabled</string>
 			<key>LauncherPath</key>
