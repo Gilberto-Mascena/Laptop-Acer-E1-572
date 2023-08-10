@@ -10,21 +10,26 @@
 
 <img align="right" src="./Imagens/banner.png" alt="Foto NoteBook Acer" width="330">
 
-*macOS* | *Catalina 10.15.7*
-:---: | :---
+_**macOS**_  _**Catalina 10.15.7**_
+
 ## 
 
-## *Meu Setup*
+## *Meu Laptop*
 
-*Config* | *Laptop*
-:---: | :---
- *Laptop* | [*ACER E1-572-6_BR471*](https://www.acer.com/br-pt/support?search=40545129395;NX.MEVAL.019;E1-572&filter=global_download)
- *CPU* | *I3 4010U*
- *GPU* | *Intel HD Graphics 4400*
- *Memória Ram* | *1x2GB + 1x4GB Total 6GB*
- *SSD Sata* | *Kingston SA400S37 120G SATA3 2.5 SSD*
- *Rede* | *Broadcom NetXtreme BCM57786*
- *WI-FI / Bluetooth* | *Atheros AR9565*
+ - _**Laptop**_
+   - [*ACER E1-572-6_BR471*](https://www.acer.com/br-pt/support?search=40545129395;NX.MEVAL.019;E1-572&filter=global_download)
+ - _**CPU**_
+   - *I3 4010U*
+ - _**GPU**_
+   - *Intel HD Graphics 4400*
+ - _**Memória Ram**_
+   - *1x2GB + 1x4GB Total 6GB*
+ - _**SSD Sata**_
+   - *Kingston SA400S37 120G SATA3 2.5 SSD*
+ - _**Rede**_
+   - *Broadcom NetXtreme BCM57786*
+ - _**WI-FI / Bluetooth**_
+   - *Atheros AR9565*
 ##
 
 ## *O que funciona*
@@ -33,7 +38,7 @@
 - [x] *Áudio.*
 - [x] *Rede.*
 - [x] *WI-FI.*
-- [ ] *Bluetooth.*
+- [X] *Bluetooth.*
 - [x] *USB.*
 - [ ] *Sleep.*
 ##
@@ -43,6 +48,22 @@
 ![Captura de Tela 2022-08-22 às 00 33 24](https://user-images.githubusercontent.com/103699861/185834935-b85038dd-c9d0-45cf-ba54-4c65ba1815c0.png)
 ![Captura de Tela 2022-08-22 às 00 33 47](https://user-images.githubusercontent.com/103699861/185834958-248b77b0-6b24-4daa-8e6a-491e9293b582.png)
 ![Captura de Tela 2022-08-22 às 00 35 22](https://user-images.githubusercontent.com/103699861/185834964-bd57d1cd-0aaf-4d20-81b7-31dd45014314.png)
+##
+
+## *Kexts usadas, (todas versões Releases)*
+
+- *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
+- *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
+- *[`VirtualSMC`](https://github.com/acidanthera/VirtualSMC), somente: `VirtualSMC.kext`, `SMCProcessor.kext`, `SMCBatteryManager.kext` e `SMCSuperIO.kext`*.
+- *[`IntelMausi.kext`](https://github.com/acidanthera/IntelMausi)*
+- *[`CpuTscSync.kext`](https://github.com/acidanthera/CpuTscSync)*
+- *[`CPUFriend`](https://github.com/acidanthera/CPUFriend)*
+- *[`CPUFriendDataProvider.kext`]*
+- *[`AppleALC.kext`](https://github.com/acidanthera/AppleALC)*
+- *`USBMap.kext`*
+- *[`RestrictEvents.kext`](https://github.com/acidanthera/RestrictEvents)*
+- *[`VoodooPS2Controller.kext`](https://bitbucket.org/RehabMan/os-x-voodoo-ps2-controller/downloads/)*
+- *[`Rede e WI-FI`] no diretório: `Kexts-Ethernet_Wi-Fi` e instruções de uso*
 ##
 
 ## *Utilização*
