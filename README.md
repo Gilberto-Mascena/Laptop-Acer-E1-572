@@ -58,12 +58,12 @@ _**macOS**_  _**Catalina 10.15.7**_
 - *[`IntelMausi.kext`](https://github.com/acidanthera/IntelMausi)*
 - *[`CpuTscSync.kext`](https://github.com/acidanthera/CpuTscSync)*
 - *[`CPUFriend`](https://github.com/acidanthera/CPUFriend)*
-- *[`CPUFriendDataProvider.kext`]*
+- *`CPUFriendDataProvider.kext`*
 - *[`AppleALC.kext`](https://github.com/acidanthera/AppleALC)*
 - *`USBMap.kext`*
 - *[`RestrictEvents.kext`](https://github.com/acidanthera/RestrictEvents)*
 - *[`VoodooPS2Controller.kext`](https://bitbucket.org/RehabMan/os-x-voodoo-ps2-controller/downloads/)*
-- *[`Rede e WI-FI`] no diretório: `Kexts-Ethernet_Wi-Fi` e instruções de uso*
+- *`Rede e WI-FI` no diretório: `Kexts-Ethernet_Wi-Fi` e instruções de uso*
 ##
 
 ## *Utilização*
