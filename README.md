@@ -19,7 +19,7 @@ _**macOS**_  _**Catalina 10.15.7**_
  - _**Laptop**_
    - [*ACER E1-572-6_BR471*](https://www.acer.com/br-pt/support?search=40545129395;NX.MEVAL.019;E1-572&filter=global_download)
  - _**CPU**_
-   - *I3 4010U*
+   - *Core I3 4010U*
  - _**GPU**_
    - *Intel HD Graphics 4400*
  - _**Memória Ram**_
