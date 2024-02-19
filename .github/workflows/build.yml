@@ -31,6 +31,14 @@ jobs:
             - Segunda Mudança: 
               - _Atualizada a `kext`:_              
               - _`AppleALC.kext`_
-                
+            
+            - Terceira Mudança:
+              - _Adicionado a `kext`:_
+              - _`RTCMemoryFixup.kext`_
+              
+            - Quarta Mudança:
+              - _Config.plist -> NVRAM -> Add -> 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102 -> rtc-blacklist = B2_
+              - _Em conjunto com `RTCMemoryFixup.kext` e patches ACPI SSDT-GPRW corrigi a hibernação_
+
           draft: false
           prerelease: false

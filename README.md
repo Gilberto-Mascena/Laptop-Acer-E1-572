@@ -40,7 +40,7 @@ _**macOS**_  _**Catalina 10.15.7**_
 - [x] *WI-FI.*
 - [X] *Bluetooth.*
 - [x] *USB.*
-- [ ] *Sleep.*
+- [X] *Sleep.*
 ##
 
 ## *Captura de telas*
@@ -64,6 +64,7 @@ _**macOS**_  _**Catalina 10.15.7**_
 - *[`RestrictEvents.kext`](https://github.com/acidanthera/RestrictEvents)*
 - *[`VoodooPS2Controller.kext`](https://bitbucket.org/RehabMan/os-x-voodoo-ps2-controller/downloads/)*
 - *`Rede e WI-FI` no diretório: `Kexts-Ethernet_Wi-Fi` e instruções de uso*
+- *[`RTCMemoryFixup.kext`](https://github.com/acidanthera/RTCMemoryFixup/releases)*
 ##
 
 ## *Utilização*
@@ -89,6 +90,7 @@ _**macOS**_  _**Catalina 10.15.7**_
 - [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/GabrielLuchina)
+- [*unitedastronomer*](https://github.com/unitedastronomer)
 ##
 
 ## *Licença*
