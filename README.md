@@ -10,7 +10,7 @@
 
 <img align="right" src="./Imagens/banner.png" alt="Foto NoteBook Acer" width="330">
 
-_**macOS**_  _**Catalina 10.15.7**_
+_**macOS**_  _**Big Sur 11.7.10**_
 
 ## 
 
@@ -45,7 +45,7 @@ _**macOS**_  _**Catalina 10.15.7**_
 
 ## *Captura de telas*
  
-![Captura de Tela 2022-08-22 às 00 33 24](https://user-images.githubusercontent.com/103699861/185834935-b85038dd-c9d0-45cf-ba54-4c65ba1815c0.png)
+![about](./Imagens/about.png)
 ![Captura de Tela 2022-08-22 às 00 33 47](https://user-images.githubusercontent.com/103699861/185834958-248b77b0-6b24-4daa-8e6a-491e9293b582.png)
 ![Captura de Tela 2022-08-22 às 00 35 22](https://user-images.githubusercontent.com/103699861/185834964-bd57d1cd-0aaf-4d20-81b7-31dd45014314.png)
 ##
@@ -63,8 +63,10 @@ _**macOS**_  _**Catalina 10.15.7**_
 - *`USBMap.kext`*
 - *[`RestrictEvents.kext`](https://github.com/acidanthera/RestrictEvents)*
 - *[`VoodooPS2Controller.kext`](https://bitbucket.org/RehabMan/os-x-voodoo-ps2-controller/downloads/)*
-- *`Rede e WI-FI` no diretório: `Kexts-Ethernet_Wi-Fi` e instruções de uso*
 - *[`RTCMemoryFixup.kext`](https://github.com/acidanthera/RTCMemoryFixup/releases)*
+- *[`AppleBCM57XXEthernet.kext`](https://github.com/unitedastronomer/AppleBCM57XXEthernet/releases/tag/Kext1)*
+- *[`AirPortAtheros40-AR9565`](https://github.com/qiqco/Atheros-Wi-Fi-Hackintosh-macOS/blob/main/AirPortAtheros40-AR9565.zip)*
+- *[`HS80211Family.kext`](https://github.com/qiqco/Atheros-Wi-Fi-Hackintosh-macOS/blob/main/HS80211Family.kext.zip)*
 ##
 
 ## *Utilização*
@@ -91,6 +93,7 @@ _**macOS**_  _**Catalina 10.15.7**_
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/GabrielLuchina)
 - [*unitedastronomer*](https://github.com/unitedastronomer)
+- [*qiqco*](https://github.com/qiqco)
 ##
 
 ## *Licença*
