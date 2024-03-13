@@ -14,7 +14,9 @@ _**macOS**_  _**Big Sur 11.7.10**_
 
 ## 
 
-## *Meu Laptop*
+_**Meu Laptop**_
+
+##
 
  - _**Laptop**_
    - [*ACER E1-572-6_BR471*](https://www.acer.com/br-pt/support?search=40545129395;NX.MEVAL.019;E1-572&filter=global_download)
@@ -35,12 +37,12 @@ _**macOS**_  _**Big Sur 11.7.10**_
 ## *O que funciona*
 
 - [x] *Video (onbord via HDMI).*
-- [x] *Áudio.*
-- [x] *Rede.*
-- [x] *WI-FI.*
-- [X] *Bluetooth.*
-- [x] *USB.*
-- [X] *Sleep.*
+- [x] *Áudio*
+- [x] *Rede*
+- [x] *WI-FI*
+- [X] *Bluetooth*
+- [x] *USB*
+- [X] *Sleep*
 ##
 
 ## *Captura de telas*
@@ -94,6 +96,7 @@ _**macOS**_  _**Big Sur 11.7.10**_
 - [*Gabriel Luchina*](https://www.youtube.com/c/GabrielLuchina)
 - [*unitedastronomer*](https://github.com/unitedastronomer)
 - [*qiqco*](https://github.com/qiqco)
+- *E outros*
 ##
 
 ## *Licença*
