@@ -1,4 +1,4 @@
-# *EFI OC Laptop-Acer-E1-572 macOS Catalina*
+# *EFI OC Laptop-Acer-E1-572 macOS Big Sur*
 
 ![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Laptop-Acer-E1-572)
 ![release-date](https://img.shields.io/github/release-date/Gilberto-Mascena/Laptop-Acer-E1-572)
