@@ -1,9 +1,11 @@
 # *EFI OC Laptop-Acer-E1-572 macOS Big Sur*
-
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Laptop-Acer-E1-572)
+![license](https://img.shields.io/github/license/Gilberto-Mascena/Laptop-Acer-E1-572)
+[![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/Laptop-Acer-E1-572)](https://GitHub.com/Gilberto-Mascena/Laptop-Acer-E1-572)
+[![GitHub issues](https://img.shields.io/github/issues/Gilberto-Mascena/Laptop-Acer-E1-572)](https://GitHub.com/Gilberto-Mascena/Laptop-Acer-E1-572)
 ![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Laptop-Acer-E1-572)
 ![release-date](https://img.shields.io/github/release-date/Gilberto-Mascena/Laptop-Acer-E1-572)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Laptop-Acer-E1-572)
-![license](https://img.shields.io/github/license/Gilberto-Mascena/Laptop-Acer-E1-572)
 ##
 
 ## *Sistema Operacional*
@@ -25,7 +27,7 @@ _**Meu Laptop**_
  - _**GPU**_
    - *Intel HD Graphics 4400*
  - _**Memória Ram**_
-   - *1x2GB + 1x4GB Total 6GB*
+   - *2x8GB Total 16GB*
  - _**SSD Sata**_
    - *Kingston SA400S37 120G SATA3 2.5 SSD*
  - _**Rede**_
@@ -47,8 +49,11 @@ _**Meu Laptop**_
 
 ## *Captura de telas*
  
+## *Sobre este mac* 
 ![about](./Imagens/about.png)
+## *Memória principal(Atualizada para 16GB)*
 ![Captura de Tela 2022-08-22 às 00 33 47](https://user-images.githubusercontent.com/103699861/185834958-248b77b0-6b24-4daa-8e6a-491e9293b582.png)
+## *Hackintool periféricos*
 ![Captura de Tela 2022-08-22 às 00 35 22](https://user-images.githubusercontent.com/103699861/185834964-bd57d1cd-0aaf-4d20-81b7-31dd45014314.png)
 ##
 
