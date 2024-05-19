@@ -52,9 +52,19 @@ _**My Setup**_
 ## *About this mac* 
 ![about](./img/about.png)
 ## *Memory (Upgraded to 16GB)*
-![screenshot 2022-08-22 às 00 33 47](https://user-images.githubusercontent.com/103699861/185834958-248b77b0-6b24-4daa-8e6a-491e9293b582.png)
+![memory](./img/memory.png)
+## *Sound*()
+![sound](./img/sound.png)
+## *Network and WI-FI*
+![network](./img/network-wi-fi.png)
+## *Bluetooth*
+![bluetooth](./img/bluetooth.png)
+## *Opencore version*
+![opencore](./img/opencore-version.png)
 ## *Hackintool peripherals*
-![screenshot 2022-08-22 às 00 35 22](https://user-images.githubusercontent.com/103699861/185834964-bd57d1cd-0aaf-4d20-81b7-31dd45014314.png)
+![peripherals](./img/peripherals.png)
+## *USB port mapping*
+![usb-mapping](./img/USB-mapping.png)
 ##
 
 ## *Kexts used, (all Releases)*
