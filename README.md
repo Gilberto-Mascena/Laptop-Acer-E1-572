@@ -27,7 +27,7 @@ _**My Setup**_
  - _**GPU**_
    - *Intel HD Graphics 4400*
  - _**Memory**_
-   - *2x8GB Total 16GB*
+   - *2x8GB 16GB*
  - _**SSD Sata**_
    - *Kingston SA400S37 120G SATA3 2.5 SSD*
  - _**Network**_
