@@ -53,7 +53,7 @@ _**My Setup**_
 ![about](./img/about.png)
 ## *Memory (Upgraded to 16GB)*
 ![memory](./img/memory.png)
-## *Sound*()
+## *Sound*
 ![sound](./img/sound.png)
 ## *Network and WI-FI*
 ![network](./img/network-wi-fi.png)
