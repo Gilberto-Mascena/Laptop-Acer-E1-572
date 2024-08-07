@@ -6,7 +6,8 @@
 [![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Laptop-Acer-E1-572)](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/releases)
 ![release-date](https://img.shields.io/github/release-date/Gilberto-Mascena/Laptop-Acer-E1-572)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Laptop-Acer-E1-572)
-##
+
+---
 
 ## *Operational system*
 
@@ -14,11 +15,11 @@
 
 _**macOS**_  _**Big Sur 11.7.10**_
 
-## 
+---
 
 _**My Setup**_
 
-##
+---
 
  - _**Notebook**_
    - [*ACER E1-572-6_BR471*](https://www.acer.com/br-pt/support?search=40545129395;NX.MEVAL.019;E1-572&filter=global_download)
@@ -34,8 +35,22 @@ _**My Setup**_
    - *Broadcom NetXtreme BCM57786*
  - _**WI-FI / Bluetooth**_
    - *Atheros AR9565*
-##
 
+---
+
+<a name="ancora"></a>
+## Navigation
+- [*What works*](#ancora1)
+- [*Screenshot*](#ancora2)
+- [*Kexts used, (all Releases)*](#ancora3)
+- [*Recommended tools*](#ancora4)
+- [*Intel BIOS Settings*](#ancora5)
+- [*Thanks*](#ancora6)
+- [*License* ](#ancora7)
+
+---
+
+<a id="ancora1"></a>
 ## *What works*
 
 - [x] *Video (onbord HDMI).*
@@ -45,11 +60,14 @@ _**My Setup**_
 - [X] *Bluetooth*
 - [x] *USB*
 - [X] *Sleep*
-##
 
-## *Screenshot*
- 
-## *About this mac* 
+[Top](#ancora)
+
+---
+
+<a id="ancora2"></a>
+## *Screenshot* 
+
 ![about](./img/about.png)
 ## *Memory (Upgraded to 16GB)*
 ![memory](./img/memory.png)
@@ -65,8 +83,12 @@ _**My Setup**_
 ![peripherals](./img/peripherals.png)
 ## *USB port mapping*
 ![usb-mapping](./img/USB-mapping.png)
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora3"></a>
 ## *Kexts used, (all Releases)*
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
@@ -84,8 +106,12 @@ _**My Setup**_
 - *[`AppleBCM57XXEthernet.kext`](https://github.com/unitedastronomer/AppleBCM57XXEthernet/releases/tag/Kext1)*
 - *[`AirPortAtheros40-AR9565`](https://github.com/qiqco/Atheros-Wi-Fi-Hackintosh-macOS/blob/main/AirPortAtheros40-AR9565.zip)*
 - *[`HS80211Family.kext`](https://github.com/qiqco/Atheros-Wi-Fi-Hackintosh-macOS/blob/main/HS80211Family.kext.zip)*
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora4"></a>
 ## *Recommended tools*
 
 * Recommendation 1
@@ -99,13 +125,21 @@ _**My Setup**_
   * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), to generate your SSDT patches.*    
 * Recommendation 5
   * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), to compile your SSDT patches on mac.*
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora5"></a>
 ## *Intel BIOS Settings*
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/haswell.html#intel-bios-settings)
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora6"></a>
 ## *Thanks*
 
 - [*Acidanthera*](https://github.com/acidanthera)
@@ -117,11 +151,18 @@ _**My Setup**_
 - [*unitedastronomer*](https://github.com/unitedastronomer)
 - [*qiqco*](https://github.com/qiqco)
 - *And others*
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora7"></a>
 ## *License*
 
 *The* [*MIT License*](LICENSE.md) (*MIT*)
 
 *Copyright :copyright: 2020* 
-##
+
+[Top](#ancora)
+
+---
