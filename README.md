@@ -35,7 +35,8 @@ _**My Setup**_
  - _**Network**_
    - *Broadcom NetXtreme BCM57786*
  - _**WI-FI / Bluetooth**_
-   - *Atheros AR9565*       
+   - *Atheros AR9565*
+      - _Not supported on macOS Monterey_ 
 
 ---
 
