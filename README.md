@@ -1,4 +1,4 @@
-# *EFI OC Laptop-Acer-E1-572 macOS Big Sur*
+# *EFI OC Laptop-Acer-E1-572-6_BR471*
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Laptop-Acer-E1-572)
 [![license](https://img.shields.io/github/license/Gilberto-Mascena/Laptop-Acer-E1-572)](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/blob/main/LICENSE.md)
 [![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/Laptop-Acer-E1-572)](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/stargazers)
@@ -9,17 +9,18 @@
 
 ---
 
-## *Operational system*
+## *Operating systems*
 
 <img align="right" src="./img/banner.png" alt="photo NoteBook Acer" width="330">
 
-_**macOS**_  _**Big Sur 11.7.10**_
+<div>
+  <img src="./img/macos-big-sur-icon.png" alt="logo macOS Big Sur" width="55">
+  <img src="./img/macos-monterey-icon.png" alt="logo macOS Monterey" width="55">
+</div>
 
 ---
 
 _**My Setup**_
-
----
 
  - _**Notebook**_
    - [*ACER E1-572-6_BR471*](https://www.acer.com/br-pt/support?search=40545129395;NX.MEVAL.019;E1-572&filter=global_download)
@@ -34,7 +35,7 @@ _**My Setup**_
  - _**Network**_
    - *Broadcom NetXtreme BCM57786*
  - _**WI-FI / Bluetooth**_
-   - *Atheros AR9565*
+   - *Atheros AR9565*       
 
 ---
 
