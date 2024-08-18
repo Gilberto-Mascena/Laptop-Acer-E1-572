@@ -16,7 +16,7 @@
 </div>
 
 <div>
-  <img align="right" src="./img/banner.png" alt="photo NoteBook Acer" width="330">
+  <img align="right" src="./img/banner-acer.png" alt="photo NoteBook Acer" width="320">
 </div>
 
 ---
