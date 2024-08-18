@@ -12,7 +12,7 @@
 ## *Operating systems*
 
 <div>
-  <img src="./img/macos-two.png" alt="macOS icons" width="250">
+  <img src="./img/macos-two.png" alt="macOS icons" width="220">
 </div>
 
 <div>
