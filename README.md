@@ -11,13 +11,13 @@
 
 ## *Operating systems*
 
-<img align="right" src="./img/banner.png" alt="photo NoteBook Acer" width="330">
-
 <div>
-  <img src="./img/macos-big-sur-icon.png" alt="logo macOS Big Sur" width="55">
-  <img src="./img/macos-monterey-icon.png" alt="logo macOS Monterey" width="55">
+  <img src="./img/macos-two.png" alt="macOS icons" width="250">
 </div>
 
+<div>
+  <img align="right" src="./img/banner.png" alt="photo NoteBook Acer" width="330">
+</div>
 ---
 
 _**My Setup**_
