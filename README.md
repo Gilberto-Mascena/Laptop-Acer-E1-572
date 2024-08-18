@@ -18,6 +18,7 @@
 <div>
   <img align="right" src="./img/banner.png" alt="photo NoteBook Acer" width="330">
 </div>
+
 ---
 
 _**My Setup**_
@@ -41,7 +42,7 @@ _**My Setup**_
 ---
 
 <a name="ancora"></a>
-## Navigation
+## _Topic navigation_
 - [*What works*](#ancora1)
 - [*Screenshot*](#ancora2)
 - [*Kexts used, (all Releases)*](#ancora3)
