@@ -32,7 +32,7 @@ _**My Setup**_
  - _**Memory**_
    - *2x8GB 16GB*
  - _**SSD Sata**_
-   - *Kingston SA400S37 120G SATA3 2.5 SSD*
+   - *Kingston SA400S37 120GB SATA3 2.5 SSD*
  - _**Network**_
    - *Broadcom NetXtreme BCM57786*
  - _**WI-FI / Bluetooth**_
