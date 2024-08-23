@@ -54,7 +54,8 @@ _**My Setup**_
 ---
 
 <a id="ancora1"></a>
-## *What works*
+
+<details><summary><h2>What works</h2></summary>
 
 - [x] *Video (onbord HDMI).*
 - [x] *Sound*
@@ -65,34 +66,53 @@ _**My Setup**_
 - [X] *Sleep*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora2"></a>
 ## Screenshots
 
 ![about](./img/about.png)
-## *Memory (Upgraded to 16GB)*
+
+<details><summary><h2>Memory (Upgraded to 16GB)</h2></summary>
+
 ![memory](./img/memory.png)
-## *Sound*
+</details>
+
+<details><summary><h2>Sound</h2></summary>
+
 ![sound](./img/sound.png)
-## *Network and WI-FI*
+</details>
+
+<details><summary><h2>Network and WI-FI</h2></summary>
+
 ![network](./img/network-wi-fi.png)
-## *Bluetooth*
+</details>
+
+<details><summary><h2>Bluetooth</h2></summary>
+
 ![bluetooth](./img/bluetooth.png)
-## *Opencore version*
+</details>
+
+<details><summary><h2>Opencore version</h2></summary>
+
 ![opencore](./img/opencore-version.png)
-## *Hackintool peripherals*
+</details>
+
+<details><summary><h2>Hackintool peripherals</h2></summary>
+
 ![peripherals](./img/peripherals.png)
-## *USB port mapping*
+</details>
+
+<details><summary><h2>USB port mapping</h2></summary>
+
 ![usb-mapping](./img/USB-mapping.png)
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora3"></a>
-## *Kexts used, (all Releases)*
+
+<details><summary><h2>Kexts used, (all Releases)</h2></summary>
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
@@ -111,11 +131,11 @@ _**My Setup**_
 - *[`HS80211Family.kext`](https://github.com/qiqco/Atheros-Wi-Fi-Hackintosh-macOS/blob/main/HS80211Family.kext.zip)*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora4"></a>
-## *Recommended tools*
+
+<details><summary><h2>Recommended tools</h2></summary>
 
 * Recommendation 1
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), to generate new serials for your SMBIOS in order to avoid conflicts with iServices.*
@@ -130,17 +150,16 @@ _**My Setup**_
   * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), to compile your SSDT patches on mac.*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora5"></a>
-## *Intel BIOS Settings*
+
+<details><summary><h2>Intel BIOS Settings</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/haswell.html#intel-bios-settings)
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora6"></a>
 ## *Thanks*
