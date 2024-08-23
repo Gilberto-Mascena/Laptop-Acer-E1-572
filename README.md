@@ -37,7 +37,8 @@ _**My Setup**_
    - *Atheros AR9565*
 >[!WARNING]  
 > _Not supported on macOS Monterey_ 
----
+
+##
  - _**Network**_
    - *Broadcom NetXtreme BCM57786*
 
