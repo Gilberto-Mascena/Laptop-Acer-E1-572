@@ -33,13 +33,12 @@ _**My Setup**_
    - *2x8GB 16GB*
  - _**SSD Sata**_
    - *Kingston SA400S37 120GB SATA3 2.5 SSD*
- - _**Network**_
-   - *Broadcom NetXtreme BCM57786*
  - _**WI-FI / Bluetooth**_
    - *Atheros AR9565*
 >[!WARNING]  _Not supported on macOS Monterey_ 
-
 ---
+ - _**Network**_
+   - *Broadcom NetXtreme BCM57786*
 
 <a name="ancora"></a>
 ## _Topic navigation_
