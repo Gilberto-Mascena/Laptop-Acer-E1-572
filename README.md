@@ -69,7 +69,7 @@ _**My Setup**_
 ---
 
 <a id="ancora2"></a>
-## *Screenshot* 
+## Screenshots
 
 ![about](./img/about.png)
 ## *Memory (Upgraded to 16GB)*
