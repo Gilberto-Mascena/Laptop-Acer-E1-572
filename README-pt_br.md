@@ -1,3 +1,6 @@
+[Português Brasileiro](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/blob/main/README-pt_br.md) | 
+[English](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/blob/main/README.md)
+
 # *EFI OC Laptop-Acer-E1-572-6_BR471*
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Laptop-Acer-E1-572)
