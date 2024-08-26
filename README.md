@@ -1,4 +1,8 @@
+[English](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/blob/main/README.md) | 
+[Português Brasileiro](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/blob/main/README-pt_br.md)
+
 # *EFI OC Laptop-Acer-E1-572-6_BR471*
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Laptop-Acer-E1-572)
 [![license](https://img.shields.io/github/license/Gilberto-Mascena/Laptop-Acer-E1-572)](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/blob/main/LICENSE.md)
 [![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/Laptop-Acer-E1-572)](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/stargazers)
@@ -43,6 +47,7 @@ _**My Setup**_
    - *Broadcom NetXtreme BCM57786*
 
 <a name="ancora"></a>
+
 ## _Topic navigation_
 - [*What works*](#ancora1)
 - [*Screenshot*](#ancora2)
@@ -70,6 +75,7 @@ _**My Setup**_
 </details>
 
 <a id="ancora2"></a>
+
 ## Screenshots
 
 ![about](./img/about.png)
@@ -163,6 +169,7 @@ _**My Setup**_
 </details>
 
 <a id="ancora6"></a>
+
 ## *Thanks*
 
 - [*Acidanthera*](https://github.com/acidanthera)
@@ -178,6 +185,7 @@ _**My Setup**_
 [Top](#ancora)
 
 <a id="ancora7"></a>
+
 ## *License*
 
 *The* [*MIT License*](LICENSE.md) (*MIT*)
