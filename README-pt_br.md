@@ -71,7 +71,7 @@ _**Minha configuração**_
 - [x] *USB*
 - [X] *Sleep*
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora2"></a>
@@ -114,7 +114,7 @@ _**Minha configuração**_
 
 ![usb-mapping](./img/USB-mapping.png)
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora3"></a>
@@ -137,7 +137,7 @@ _**Minha configuração**_
 - *[`AirPortAtheros40-AR9565`](https://github.com/qiqco/Atheros-Wi-Fi-Hackintosh-macOS/blob/main/AirPortAtheros40-AR9565.zip)*
 - *[`HS80211Family.kext`](https://github.com/qiqco/Atheros-Wi-Fi-Hackintosh-macOS/blob/main/HS80211Family.kext.zip)*
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora4"></a>
@@ -156,7 +156,7 @@ _**Minha configuração**_
 * Recomendação 5
   * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), para compilar seus patches SSDT no mac*
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora5"></a>
@@ -165,7 +165,7 @@ _**Minha configuração**_
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/haswell.html#intel-bios-settings)
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora6"></a>
@@ -182,7 +182,7 @@ _**Minha configuração**_
 - [*qiqco*](https://github.com/qiqco)
 - *E outros*
 
-[Top](#ancora)
+[Voltar](#ancora)
 
 <a id="ancora7"></a>
 
@@ -192,6 +192,6 @@ _**Minha configuração**_
 
 ### Gilberto | Dev _2020_ 
 
-[Top](#ancora)
+[Voltar](#ancora)
 
 ---
