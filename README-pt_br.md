@@ -51,6 +51,7 @@ _**Minha configuração**_
 <a name="ancora"></a>
 
 ## _Navegação por tópicos_
+
 - [*O que funciona*](#ancora1)
 - [*Capturas de telas*](#ancora2)
 - [*Kexts usados, (todas releases)*](#ancora3)
@@ -169,6 +170,8 @@ _**Minha configuração**_
 
 [Voltar](#ancora)
 </details>
+
+## [_Criando o instalador do macOS no Windows ou Linux_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac)
 
 <a id="ancora6"></a>
 
