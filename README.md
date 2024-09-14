@@ -30,6 +30,8 @@ _**My Setup**_
 
  - _**Notebook**_
    - [*ACER E1-572-6_BR471*](https://www.acer.com/br-pt/support?search=40545129395;NX.MEVAL.019;E1-572&filter=global_download)
+- _**Bios version**_
+  - *v2.17*
  - _**CPU**_
    - *Core I3 4010U*
  - _**GPU**_
