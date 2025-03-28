@@ -3,13 +3,14 @@
 
 # *EFI OC Laptop-Acer-E1-572-6_BR471*
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Laptop-Acer-E1-572)
-[![license](https://img.shields.io/github/license/Gilberto-Mascena/Laptop-Acer-E1-572)](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/blob/main/LICENSE.md)
-[![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/Laptop-Acer-E1-572)](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/Gilberto-Mascena/Laptop-Acer-E1-572)](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/issues)
-[![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Laptop-Acer-E1-572)](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/releases)
-![release-date](https://img.shields.io/github/release-date/Gilberto-Mascena/Laptop-Acer-E1-572)
-![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Laptop-Acer-E1-572)
+![Status de Manutenção](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)
+[![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/Gilberto-Mascena/Laptop-Acer-E1-572/build.yml?style=for-the-badge)](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/actions)
+[![Licença](https://img.shields.io/github/license/Gilberto-Mascena/Laptop-Acer-E1-572?style=for-the-badge)](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/blob/main/LICENSE.md)
+[![Estrelas no GitHub](https://img.shields.io/github/stars/Gilberto-Mascena/Laptop-Acer-E1-572?style=for-the-badge)](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/stargazers)
+[![Problemas no GitHub](https://img.shields.io/github/issues/Gilberto-Mascena/Laptop-Acer-E1-572?style=for-the-badge)](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/issues)
+[![Versão do Repositório](https://img.shields.io/github/v/release/Gilberto-Mascena/Laptop-Acer-E1-572?include_prereleases&style=for-the-badge)](https://github.com/Gilberto-Mascena/Laptop-Acer-E1-572/releases)
+![Data de Lançamento](https://img.shields.io/github/release-date/Gilberto-Mascena/Laptop-Acer-E1-572?style=for-the-badge)
+![Tamanho do Repositório](https://img.shields.io/github/repo-size/Gilberto-Mascena/Laptop-Acer-E1-572?style=for-the-badge)
 
 ---
 
