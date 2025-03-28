@@ -67,7 +67,7 @@ _**Minha configuração**_
 
 <a id="ancora1"></a>
 
-<details><summary><h2>O que funciona</h2></summary>
+<details><summary><h2>O que funciona 👀</h2></summary>
 
 - [x] *Video (onbord HDMI).*
 - [x] *Audio*
@@ -86,37 +86,37 @@ _**Minha configuração**_
 
 ![about](./img/about.png)
 
-<details><summary><h2>Memória</h2></summary>
+<details><summary><h2>Memória 👀</h2></summary>
 
 ![memory](./img/memory.png)
 </details>
 
-<details><summary><h2>Audio</h2></summary>
+<details><summary><h2>Audio 👀</h2></summary>
 
 ![sound](./img/sound.png)
 </details>
 
-<details><summary><h2>Rede e WI-FI</h2></summary>
+<details><summary><h2>Rede e WI-FI 👀</h2></summary>
 
 ![network](./img/network-wi-fi.png)
 </details>
 
-<details><summary><h2>Bluetooth</h2></summary>
+<details><summary><h2>Bluetooth 👀</h2></summary>
 
 ![bluetooth](./img/bluetooth.png)
 </details>
 
-<details><summary><h2>Versão do OpenCore</h2></summary>
+<details><summary><h2>Versão do OpenCore 👀</h2></summary>
 
 ![opencore](./img/opencore-version.png)
 </details>
 
-<details><summary><h2>Periféricos</h2></summary>
+<details><summary><h2>Periféricos 👀</h2></summary>
 
 ![peripherals](./img/peripherals.png)
 </details>
 
-<details><summary><h2>Mapeamento de portas USB</h2></summary>
+<details><summary><h2>Mapeamento de portas USB 👀</h2></summary>
 
 ![usb-mapping](./img/USB-mapping.png)
 
@@ -125,7 +125,7 @@ _**Minha configuração**_
 
 <a id="ancora3"></a>
 
-<details><summary><h2>Kexts usados, (todas releases)</h2></summary>
+<details><summary><h2>Kexts usados, (todas releases) 👀</h2></summary>
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
@@ -148,7 +148,7 @@ _**Minha configuração**_
 
 <a id="ancora4"></a>
 
-<details><summary><h2>Ferramentas recomendadas</h2></summary>
+<details><summary><h2>Ferramentas recomendadas 👀</h2></summary>
 
 * Recomendação 1
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para seu SMBIOS a fim de evitar conflitos com iServices*
@@ -167,7 +167,7 @@ _**Minha configuração**_
 
 <a id="ancora5"></a>
 
-<details><summary><h2>Configurações de BIOS Intel</h2></summary>
+<details><summary><h2>Configurações de BIOS Intel 👀</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/haswell.html#intel-bios-settings)
 
