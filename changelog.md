@@ -1,11 +1,15 @@
-_**Changes in this Version**_
+## _**Changes in this Version**_
 
-- _🎉 Updates in this release:_    
+- ### 🎉 Changes in this Version
 
-  - _OpenCore_
-    - _Version 1.0.4_
+### Updates in this release:    
 
-  - _Kexts_
-    - _AppleALC 1.9.4_
-    - _VirtualSMC 1.3.5_
+#### OpenCore
+
+- [x] Version 1.0.6
+
+#### Kexts
+
+- [x] AppleALC 1.9.6
+    
     
